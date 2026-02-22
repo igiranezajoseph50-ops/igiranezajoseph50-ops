@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:030508,40:00f5ff,80:7b2fff,100:ff00c8&height=250&section=header&text=LEGACIA&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=DIGITAL%20ARCHITECT%20·%20FUTURIST%20·%20BUILDER&descAlignY=68&descSize=13&stroke=00f5ff&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:030508,40:00f5ff,80:7b2fff,100:ff00c8&height=250&section=header&text=LEGACIA&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=DIGITAL%20ARCHITECT%20·%20CREATOR%20·%20BUILDER&descAlignY=68&descSize=13&stroke=00f5ff&strokeWidth=2)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Front-end+Architect+%7C+3D+Developer;Building+tomorrow's+web+today;Rwanda+%F0%9F%8C%8D+%C2%B7+Open+to+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=UI+and+UX+Designer;Backend+and+Frontend+Developer;Mobile+Developer)](https://git.io/typing-svg)
 
 <br/>
 
