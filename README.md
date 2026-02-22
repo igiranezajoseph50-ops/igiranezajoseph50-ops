@@ -12,32 +12,9 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/igiranezajoseph50-ops?style=flat-square&color=00f5ff&label=followers)
 
-</div>
-
----
-
-```ts
-const Legacia = {
-  location : "Rwanda 🌍",
-  role     : "Front-end Architect & 3D Developer",
-  stack    : ["HTML", "CSS", "JavaScript", "Three.js"],
-  goal     : "Leave a legacy through technology 🚀",
-};
-```
-
----
-
-<div align="center">
-
-### Projects
-
-[![3D Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=igiranezajoseph50-ops&repo=3D-landing-page&theme=radical&hide_border=true&bg_color=030508&title_color=00f5ff&icon_color=ff00c8&text_color=8899aa)](https://github.com/igiranezajoseph50-ops/3D-landing-page)
-[![Empowering Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=igiranezajoseph50-ops&repo=EMPOWERING-FUTURE-THROUGH-INTELLIGENCE1&theme=radical&hide_border=true&bg_color=030508&title_color=00f5ff&icon_color=ff00c8&text_color=8899aa)](https://github.com/igiranezajoseph50-ops/EMPOWERING-FUTURE-THROUGH-INTELLIGENCE1)
-
-[![Three.js](https://github-readme-stats.vercel.app/api/pin/?username=igiranezajoseph50-ops&repo=three-js&theme=radical&hide_border=true&bg_color=030508&title_color=00f5ff&icon_color=ff00c8&text_color=8899aa)](https://github.com/igiranezajoseph50-ops/three-js)
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=igiranezajoseph50-ops&repo=calculator&theme=radical&hide_border=true&bg_color=030508&title_color=00f5ff&icon_color=ff00c8&text_color=8899aa)](https://github.com/igiranezajoseph50-ops/calculator)
-
 <br/>
+
+---
 
 ### Stats
 
